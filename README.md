@@ -18,7 +18,7 @@ A Python-based project analyzing NHS GP appointment data to uncover trends that 
 - Compared appointment modes (in-person vs. virtual)
 
 **Tech stack:** Python, Pandas, Seaborn, Matplotlib  
-📂 [View Notebook](./NHS_Portfolio.ipynb)
+📂 [View Notebook](https://github.com/MatLis-Purple/Projects/blob/main/NHS_Appoinments_Analysis.ipynb)
 
 ---
 
@@ -33,7 +33,7 @@ An exploratory analysis project where I cleaned and transformed market data usin
 
 **Tech stack:** SQL, Tableau  
 🧠 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/mateusz.lisiecki/viz/2Market_17421990875850/Dashboard1)  
-📄 [View SQL Script](./Porfolio.sql)
+📄 [View SQL Script](https://github.com/MatLis-Purple/Projects/blob/main/2Market_Exploratory_Analysis.sql)
 
 ---
 
