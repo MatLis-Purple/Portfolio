@@ -10,28 +10,32 @@ With over a decade of experience in scientific research and field trial design, 
 
 ### 🏥 Enhancing NHS Budgeting Efficiency with Data Analysis of Appointment Trends
 
-A Python-based project analyzing NHS GP appointment data to uncover trends that impact budgeting, service delivery, and patient behavior.
+*A Python-based project analyzing NHS GP appointment data to uncover trends that impact budgeting, service delivery, and patient behavior*
 
 **Highlights:**
 - Identified high-demand regions and seasonal trends
 - Explored correlations between booking delay and attendance
 - Compared appointment modes (in-person vs. virtual)
 
-**Tech stack:** Python, Pandas, Seaborn, Matplotlib  
+### 🛠️ **Tech Stack:**
+- **Python**, **Pandas**, **Seaborn**, **Matplotlib**
+
 📂 [View Notebook](https://github.com/MatLis-Purple/Projects/blob/main/NHS_Appoinments_Analysis.ipynb)
 
 ---
 
 ### 📊 Market Insights Using SQL and Tableau
 
-An exploratory analysis project where I cleaned and transformed market data using SQL and visualized key insights in Tableau.
+*An exploratory analysis project where I cleaned and transformed market data using SQL and visualized key insights in Tableau*
 
 **Highlights:**
 - Analyzed transaction volumes by product and region
 - Created a dynamic Tableau dashboard to explore trends
 - Used SQL queries for efficient data wrangling
 
-**Tech stack:** SQL, Tableau  
+### 🛠️ **Tech Stack:**
+- **SQL**, **Tableau**
+  
 🧠 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/mateusz.lisiecki/viz/2Market_17421990875850/Dashboard1)  
 📄 [View SQL Script](https://github.com/MatLis-Purple/Projects/blob/main/2Market_Exploratory_Analysis.sql)
 
@@ -39,7 +43,7 @@ An exploratory analysis project where I cleaned and transformed market data usin
 
 ### ❄️ **Gaea AI – Ice Sales Analysis with Market Segmentation & Predictive Modeling**
 
-📍 *Sales analysis for ice sold at petrol stations within 65 km of Madrid*
+*Sales analysis for ice sold at petrol stations within 65 km of Madrid*
 
 This project was completed as part of a collaborative effort with a 4-person team for Gaea AI, where we focused on analyzing ice sales at petrol stations. We leveraged **Python** and various data science libraries to clean, merge, and explore the data, uncovering insights into trends driven by external factors such as extreme heat, seasonality, and weekly patterns (e.g., weekends, festivals).
 
@@ -50,12 +54,13 @@ This project was completed as part of a collaborative effort with a 4-person tea
 - Built **Decision Trees** and **Random Forest** models using **Scikit-learn** to predict sales in each segment
 - Delivered actionable recommendations for **restocking strategies** and **forecasting improvements**
 
----
 
 ### 🛠️ **Tech Stack:**
 - **Python**, **Pandas**, **NumPy**, **Seaborn**, **Matplotlib**, **Scikit-learn**, **Jupyter Notebook**, **SciPy**
 
 📂 [View Notebook](https://github.com/MatLis-Purple/Projects/releases/tag/v1.0)
+
+
 ---
 
 
