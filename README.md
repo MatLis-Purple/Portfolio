@@ -58,7 +58,7 @@ This project was completed as part of a collaborative effort with a 4-person tea
 
 📂 [View Notebook](https://github.com/MatLis-Purple/Projects/blob/main/Gaea_AI_Analysis_CLEAN.ipynb)
 
-📦 [Full Version with Outputs (Downloadable Release)](https://github.com/MatLis-Purple/Projects/releases/tag/v1.0).
+📦 [Full Version with Outputs (Downloadable Release)](https://github.com/MatLis-Purple/Projects/releases/tag/v1.0)
  (Includes all charts, tables, and results)
 
 ---
