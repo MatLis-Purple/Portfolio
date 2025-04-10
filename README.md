@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Mateusz Lisiecki
 
-**Data Analyst** with a background in life sciences and a growing focus on data-driven business decision-making. Currently enrolled in the **Data Analytics Career Accelerator at the London School of Economics**, where I work on real-world projects using Python, SQL, R, Tableau, and Excel.
+I'm a data analyst with a solid foundation in life sciences and a growing passion for data-driven business decision-making. I recently completed the **Data Analytics Career Accelerator** at the **London School of Economics**, where I worked on real-world projects using **Python, SQL, R, Tableau, and Excel**.
 
-With over a decade of experience in scientific research and field trial design, I'm passionate about transforming raw data into actionable insights that support smarter strategies.
+With over a decade of experience in scientific research and field trial design, I bring a unique perspective to data analysis—combining analytical rigor with a strategic mindset. I'm passionate about transforming complex datasets into clear, actionable insights that empower smarter, evidence-based decisions.
 
 ---
 
@@ -10,7 +10,7 @@ With over a decade of experience in scientific research and field trial design, 
 
 ### 🏥 Enhancing NHS Budgeting Efficiency with Data Analysis of Appointment Trends
 
-This a **Python**-based project analyzing NHS GP appointment data to uncover trends that impact budgeting, service delivery, and patient behavior.
+This is a **Python**-based project analyzing NHS GP appointment data to uncover trends that impact budgeting, service delivery, and patient behavior.
 
 #### **Key Contributions:**
 - Identified high-demand regions and seasonal trends
