@@ -56,7 +56,7 @@ This project was completed as part of a collaborative effort with a 4-person tea
 ### 🛠️ **Tech Stack:**
 - **Python**, **Pandas**, **NumPy**, **Seaborn**, **Matplotlib**, **Scikit-learn**, **Jupyter Notebook**, **SciPy**
 
-📂 [View Notebook](https://github.com/yourusername/yourrepo/blob/main/Gaea_AI_Analysis.ipynb)
+📂 [View Notebook](https://github.com/MatLis-Purple/Projects/blob/main/Gaea_AI_Analysis_CLEAN.ipynb)
 
 
 ---
